@@ -52,3 +52,4 @@ urllib3==2.2.1
 xyzservices==2024.6.0
 yarl==1.9.4
 yfinance==0.2.40
+‎Matplotlib==3.5.3
